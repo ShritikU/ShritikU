@@ -1,5 +1,6 @@
 ## Hi My name is Shritik
-![So Good Yes GIF by ABC Network](https://github.com/user-attachments/assets/fe97b44c-6886-471d-9266-fb13f067783c)
+![One Piece Law GIF by Toei Animation (1)](https://github.com/user-attachments/assets/a0bbe8ec-2452-46b1-948a-2b70b2639d41)
+
 
 
 ## 💫 About Me:
@@ -23,6 +24,8 @@
 ### ✍️ Random Quote's 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Mad One Piece GIF by Toei Animation (1)](https://github.com/user-attachments/assets/bb04b300-8359-472c-827c-366200fd97f0)
+
 
 ### 🔝 Top Contributed Repo
 
