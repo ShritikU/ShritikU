@@ -1,4 +1,6 @@
 ## Hi My name is Shritik
+![So Good Yes GIF by ABC Network](https://github.com/user-attachments/assets/fe97b44c-6886-471d-9266-fb13f067783c)
+
 
 ## 💫 About Me:
 
