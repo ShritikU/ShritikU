@@ -3,6 +3,7 @@
 ## 💫 About Me:
 
 🌱 I’m currently learning Javascript..........
+https://media.giphy.com/media/3ndAvMC5LFPNMCzq7m/giphy.gif?cid=82a1493bq3re1i9cn4kw35sde7px8obxymbnim0scseapied&ep=v1_gifs_trending&rid=giphy.gif&ct=g
 
 ## 🌐 Socials:
 
