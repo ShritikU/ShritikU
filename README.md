@@ -1,4 +1,4 @@
-## Hi My name is Shritik
+## Hi I'm Shritik
 ![One Piece Law GIF by Toei Animation (1)](https://github.com/user-attachments/assets/a0bbe8ec-2452-46b1-948a-2b70b2639d41)
 
 
