@@ -5,7 +5,7 @@
 
 ## 💫 About Me:
 
-🌱 I’m currently learning Javascript..........
+🌱Currently learning Javascript..........
 
 ## 🌐 Socials:
 
