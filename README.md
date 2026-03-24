@@ -7,11 +7,13 @@
 
 ## 💫 About Me:
 
-🌱Currently learning Javascript..........
+🌱A Biotechnology graduate from Parul University, I have a strong academic foundation and practical experience in healthcare staffing, gained during my tenure as a Talent Acquisition Associate at PATTERNS LLC. My role involved identifying staffing needs, crafting job descriptions, sourcing candidates, and collaborating with hiring managers to ensure the best talent placement in healthcare organizations.  
+
+I have further enhanced my professional skills through the Aspire Leadership Program and McKinsey.org Forward Program, focusing on leadership, influence, and resilience. Motivated by continuous learning and professional development, I aim to integrate my technical education, leadership abilities, and networking skills to contribute meaningfully to organizational success.
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shr_i911) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shritik-upadhyay-o17) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Shyam-Upadhyay-110) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ShyamUpadh23432) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shyamupadhyay919@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shritik-upadhyay-o17) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shyamupadhyay919@gmail.com)
 
 # 💻 Tech Stack:
 
