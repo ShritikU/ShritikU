@@ -1,6 +1,6 @@
 ## Hi I'm Shritik
 
-<img width="403" height="263" alt="image" src="https://github.com/user-attachments/assets/8f615d87-c9d6-43d2-9930-001d1fe53ba6" />
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/8f615d87-c9d6-43d2-9930-001d1fe53ba6" />
 
 
 
