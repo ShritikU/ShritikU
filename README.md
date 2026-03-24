@@ -1,5 +1,7 @@
 ## Hi I'm Shritik
-![One Piece Law GIF by Toei Animation (1)](https://github.com/user-attachments/assets/a0bbe8ec-2452-46b1-948a-2b70b2639d41)
+
+<img width="403" height="263" alt="image" src="https://github.com/user-attachments/assets/8f615d87-c9d6-43d2-9930-001d1fe53ba6" />
+
 
 
 
